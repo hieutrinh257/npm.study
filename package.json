@@ -1,0 +1,25 @@
+{
+  "name": "npm.study",
+  "version": "1.0.0",
+  "description": "practice npm",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "hieutrinh",
+  "license": "MIT",
+  "dependencies": {
+    "lodash": "^4.17.4",
+    "underscore": "^1.8.3"
+  },
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hieutrinh257/npm.study.git"
+  },
+  "bugs": {
+    "url": "https://github.com/hieutrinh257/npm.study/issues"
+  },
+  "homepage": "https://github.com/hieutrinh257/npm.study#readme"
+}
